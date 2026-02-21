@@ -1,4 +1,4 @@
-# 📄 AI Knowledge Base Chatbot (RAG System)
+# 📄 AI Knowledge Base Chatbot 
 
 ## Overview
 This project is a **Retrieval-Augmented Generation (RAG) AI chatbot** that can answer questions over uploaded PDFs.  
