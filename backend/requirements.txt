@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+langchain-huggingface
+langchain-chroma
+langchain-ollama
+langchain-community
+langchain-text-splitters
